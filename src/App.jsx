@@ -1,5 +1,5 @@
 import React from "react";
-import Right from "./components/right";
+import Right from "./components/Right";
 import Left from "./components/Left";
 
 const App = () => {
