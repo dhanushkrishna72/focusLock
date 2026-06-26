@@ -1,6 +1,6 @@
 import React from "react";
-import Badge from "./Badge";
-import Content from "./content";
+import Badge from "./Badge.jsx";
+import Content from "./Content.jsx";
 
 const Right = () => {
   return (

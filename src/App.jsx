@@ -1,6 +1,6 @@
 import React from "react";
-import Right from "./components/Right";
-import Left from "./components/Left";
+import Right from "./components/Right.jsx";
+import Left from "./components/Left.jsx";
 
 const App = () => {
   return (
