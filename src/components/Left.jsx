@@ -1,9 +1,10 @@
 import React from "react";
+import mockup from "/src/assets/mockUp.png";
 
 const Left = () => {
   return (
     <div className="left">
-      <img src="./src/assets/mainScreen-left.png" alt="" />
+      <img src={mockup} alt="Floating Graphic" />
     </div>
   );
 };
